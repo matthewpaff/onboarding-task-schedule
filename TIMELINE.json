@@ -1,0 +1,2989 @@
+{
+  "synthetic": true,
+  "actualDevelopmentYear": 2026,
+  "modeledLearningYear": 2021,
+  "roadmapFit": "Independent concept exercise for modeled blueprint section B03.",
+  "scenarioCommitCount": 492,
+  "scenarioCommits": [
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 0,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-01-03T13:06:23+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 1,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-01-04T21:22:49+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 2,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-01-05T11:08:42+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 3,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-01-05T19:32:58+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 4,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-01-05T20:40:11+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 5,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-01-05T20:44:50+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 6,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-01-05T20:59:59+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 7,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-01-06T18:47:42+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 8,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-01-07T10:34:58+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 9,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-01-07T15:21:11+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 10,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-01-07T16:41:45+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 11,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-01-07T19:10:21+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 12,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-01-07T19:11:40+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 13,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-01-08T10:32:15+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 14,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-01-08T15:29:47+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 15,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-01-12T09:03:16+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 16,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-01-13T18:22:10+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 17,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-01-13T21:55:45+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 18,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-01-15T09:42:01+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 19,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-01-25T10:35:06+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 20,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-01-26T11:07:58+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 21,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-01-27T10:06:40+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 22,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-01-29T14:11:16+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 23,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-01T13:28:12+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 24,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-01T19:35:08+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 25,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-01T21:44:59+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 26,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-02T11:14:24+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 27,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-02T11:26:48+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 28,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-02T17:20:40+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 29,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-04T09:45:38+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 30,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-04T11:13:25+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 31,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-08T09:15:56+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 32,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-08T10:41:55+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 33,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-08T16:15:52+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 34,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-08T18:39:45+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 35,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-08T19:59:12+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 36,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-08T20:33:02+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 37,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-08T21:08:58+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 38,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-09T12:01:51+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 39,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-09T15:58:13+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 40,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-09T18:21:12+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 41,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-09T21:50:11+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 42,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-10T11:17:11+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 43,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-10T14:49:40+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 44,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-10T17:59:30+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 45,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-12T09:41:53+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 46,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-12T17:02:23+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 47,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-12T20:34:46+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 48,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-13T11:41:18+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 49,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-13T12:23:20+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 50,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-13T14:07:30+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 51,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-13T15:16:02+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 52,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-19T09:39:12+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 53,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-19T10:18:52+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 54,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-19T11:00:54+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 55,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-19T12:52:38+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 56,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-19T13:21:41+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 57,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-19T14:24:40+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 58,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-19T14:44:36+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 59,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-19T15:52:14+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 60,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-22T11:50:18+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 61,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-22T13:15:19+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 62,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-23T09:44:04+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 63,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-23T10:51:02+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 64,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-23T14:53:27+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 65,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-23T15:26:04+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 66,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-23T19:43:54+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 67,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-24T17:51:22+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 68,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-25T09:11:46+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 69,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-25T12:13:34+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 70,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-25T17:05:42+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 71,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-02-26T21:51:27+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 72,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-03T19:23:23+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 73,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-04T17:02:48+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 74,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-04T17:38:43+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 75,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-06T09:59:13+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 76,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-08T09:08:26+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 77,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-08T10:25:19+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 78,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-08T11:46:42+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 79,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-08T19:15:31+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 80,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-09T09:32:22+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 81,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-09T11:45:43+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 82,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-09T12:20:46+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 83,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-09T12:39:38+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 84,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-09T14:54:39+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 85,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-09T16:46:11+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 86,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-09T17:40:03+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 87,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-09T20:22:52+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 88,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-09T20:36:18+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 89,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-09T21:10:01+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 90,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-10T11:14:19+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 91,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-10T21:17:11+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 92,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-10T21:42:55+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 93,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-11T11:14:45+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 94,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-11T20:40:08+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 95,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-12T13:25:11+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 96,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-14T09:09:46+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 97,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-17T09:24:21+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 98,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-17T18:30:38+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 99,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-18T13:54:48+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 100,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-18T17:34:09+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 101,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-21T19:36:28+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 102,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-22T14:35:11+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 103,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-23T19:56:31+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 104,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-24T13:43:43+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 105,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-24T14:54:53+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 106,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-24T15:15:29+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 107,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-25T18:01:38+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 108,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-26T14:54:45+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 109,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-26T17:37:54+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 110,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-26T18:27:01+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 111,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-26T21:42:23+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 112,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-26T21:55:07+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 113,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-03-31T14:12:21+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 114,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-01T09:39:02+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 115,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-01T15:16:58+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 116,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-02T17:56:05+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 117,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-07T17:34:23+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 118,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-09T19:09:06+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 119,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-09T20:35:05+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 120,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-12T15:50:32+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 121,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-12T19:00:56+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 122,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-12T19:37:16+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 123,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-14T10:46:51+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 124,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-14T11:24:48+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 125,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-14T19:10:09+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 126,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-14T20:31:20+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 127,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-14T20:37:59+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 128,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-18T10:53:56+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 129,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-18T11:59:46+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 130,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-18T17:54:27+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 131,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-19T13:02:02+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 132,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-19T16:07:45+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 133,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-19T18:47:02+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 134,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-21T19:14:16+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 135,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-22T13:44:04+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 136,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-22T16:49:54+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 137,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-22T17:40:48+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 138,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-22T17:46:14+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 139,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-22T19:18:02+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 140,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-22T21:54:16+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 141,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-23T11:55:35+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 142,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-23T21:57:13+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 143,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-25T21:48:17+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 144,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-26T13:03:14+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 145,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-26T17:43:08+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 146,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-27T13:34:14+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 147,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-27T13:53:14+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 148,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-29T13:15:17+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 149,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-29T17:17:49+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 150,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-30T09:18:25+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 151,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-30T10:29:46+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 152,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-30T17:12:58+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 153,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-04-30T21:27:05+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 154,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-01T10:27:33+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 155,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-01T12:14:42+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 156,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-02T10:12:04+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 157,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-02T18:48:25+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 158,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-02T21:10:09+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 159,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-06T15:10:34+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 160,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-07T13:01:16+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 161,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-07T13:58:35+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 162,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-08T12:26:00+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 163,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-08T17:01:36+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 164,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-10T10:05:08+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 165,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-10T12:04:44+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 166,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-11T10:22:22+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 167,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-11T17:45:11+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 168,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-11T20:18:20+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 169,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-11T20:54:14+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 170,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-11T21:05:49+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 171,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-12T09:01:12+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 172,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-12T19:36:26+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 173,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-12T21:20:25+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 174,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-12T21:32:19+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 175,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-12T21:44:10+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 176,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-12T21:52:09+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 177,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-13T09:08:13+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 178,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-13T09:19:38+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 179,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-13T10:24:53+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 180,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-13T11:29:34+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 181,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-13T13:48:32+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 182,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-13T20:10:19+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 183,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-13T21:23:48+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 184,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-14T10:09:41+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 185,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-14T11:58:32+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 186,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-14T13:45:29+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 187,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-14T14:00:47+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 188,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-14T15:34:06+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 189,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-14T15:34:38+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 190,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-14T16:42:13+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 191,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-14T17:00:21+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 192,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-14T19:53:02+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 193,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-18T21:55:29+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 194,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-19T12:01:46+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 195,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-19T13:29:22+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 196,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-19T15:48:25+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 197,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-19T19:16:22+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 198,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-20T12:38:10+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 199,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-20T19:04:31+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 200,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-20T20:51:26+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 201,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-23T20:41:39+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 202,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-24T14:03:08+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 203,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-26T10:32:30+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 204,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-26T12:46:56+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 205,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-26T15:28:59+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 206,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-29T20:44:50+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 207,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-05-30T16:09:12+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 208,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-01T21:41:26+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 209,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-02T13:00:06+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 210,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-02T13:41:12+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 211,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-02T14:12:34+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 212,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-02T15:11:36+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 213,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-02T15:57:12+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 214,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-02T16:13:42+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 215,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-02T18:17:40+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 216,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-02T19:33:37+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 217,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-02T20:39:43+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 218,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-02T21:22:28+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 219,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-04T11:24:34+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 220,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-04T16:48:34+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 221,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-04T17:08:20+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 222,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-04T19:05:51+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 223,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-04T19:32:24+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 224,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-04T20:11:40+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 225,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-04T20:15:10+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 226,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-07T17:16:56+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 227,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-08T09:04:58+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 228,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-08T21:55:00+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 229,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-10T12:04:22+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 230,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-10T14:48:04+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 231,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-10T19:36:04+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 232,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-10T19:51:05+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 233,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-10T20:09:51+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 234,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-13T14:55:44+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 235,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-16T10:32:40+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 236,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-16T12:45:12+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 237,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-16T15:44:15+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 238,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-16T18:08:48+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 239,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-16T18:37:29+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 240,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-16T19:14:57+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 241,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-16T21:12:36+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 242,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-17T09:56:04+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 243,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-17T10:41:03+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 244,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-17T17:03:54+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 245,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-21T10:04:53+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 246,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-21T11:28:53+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 247,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-25T10:09:01+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 248,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-25T20:04:43+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 249,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-26T11:56:24+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 250,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-29T10:20:21+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 251,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-29T13:03:51+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 252,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-29T14:08:20+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 253,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-29T16:15:06+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 254,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-30T18:39:51+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 255,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-06-30T21:24:35+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 256,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-03T11:12:58+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 257,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-06T10:25:57+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 258,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-06T11:06:33+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 259,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-06T11:48:31+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 260,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-06T13:53:57+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 261,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-06T18:51:24+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 262,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-06T18:53:07+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 263,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-06T19:53:40+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 264,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-07T13:05:45+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 265,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-07T16:22:16+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 266,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-07T19:17:02+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 267,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-07T20:59:40+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 268,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-08T14:40:44+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 269,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-08T16:10:04+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 270,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-09T10:04:16+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 271,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-09T11:57:47+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 272,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-09T12:22:40+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 273,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-09T13:32:25+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 274,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-09T13:40:00+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 275,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-09T13:52:32+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 276,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-09T14:19:23+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 277,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-09T16:39:21+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 278,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-09T19:27:30+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 279,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-09T21:30:43+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 280,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-09T21:44:23+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 281,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-13T18:20:41+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 282,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-14T11:09:35+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 283,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-14T17:07:07+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 284,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-15T12:33:33+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 285,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-18T20:07:11+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 286,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-19T09:41:50+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 287,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-19T16:40:21+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 288,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-19T18:03:02+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 289,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-19T20:13:15+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 290,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-20T18:18:57+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 291,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-21T10:22:42+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 292,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-21T10:32:29+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 293,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-21T11:36:40+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 294,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-21T12:06:05+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 295,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-21T12:24:59+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 296,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-21T14:24:39+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 297,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-21T15:35:27+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 298,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-21T15:46:32+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 299,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-21T16:15:57+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 300,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-21T16:43:31+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 301,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-21T17:24:13+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 302,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-21T17:29:11+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 303,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-21T17:57:16+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 304,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-21T17:57:50+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 305,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-26T16:25:38+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 306,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-26T21:10:08+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 307,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-27T13:27:45+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 308,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-27T14:14:33+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 309,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-27T19:06:14+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 310,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-28T11:31:49+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 311,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-29T10:59:12+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 312,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-29T16:52:02+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 313,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-29T17:00:09+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 314,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-30T17:22:12+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 315,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-30T18:41:50+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 316,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-30T19:04:37+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 317,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-07-30T21:06:38+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 318,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-02T20:08:33+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 319,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-03T13:28:47+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 320,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-03T16:11:38+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 321,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-05T09:28:51+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 322,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-06T10:24:05+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 323,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-06T20:47:43+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 324,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-07T11:38:12+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 325,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-07T13:39:16+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 326,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-07T15:26:03+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 327,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-09T21:03:22+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 328,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-10T11:03:39+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 329,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-10T17:29:07+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 330,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-10T21:32:39+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 331,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-11T17:13:46+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 332,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-11T20:29:32+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 333,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-14T21:03:54+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 334,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-14T21:06:25+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 335,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-15T19:42:45+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 336,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-21T09:38:31+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 337,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-24T10:35:05+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 338,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-24T11:40:50+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 339,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-24T13:42:56+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 340,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-24T15:35:03+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 341,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-24T21:48:33+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 342,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-26T09:13:37+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 343,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-31T09:45:15+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 344,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-31T11:21:00+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 345,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-31T14:30:44+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 346,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-08-31T18:45:31+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 347,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-02T14:36:20+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 348,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-03T17:31:17+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 349,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-03T19:06:25+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 350,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-03T19:08:12+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 351,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-03T19:59:37+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 352,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-03T21:56:44+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 353,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-05T18:57:28+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 354,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-08T13:52:56+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 355,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-08T14:39:11+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 356,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-11T09:19:47+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 357,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-15T19:17:59+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 358,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-17T09:57:01+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 359,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-20T09:34:18+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 360,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-20T17:53:43+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 361,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-23T13:48:43+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 362,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-23T20:41:21+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 363,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-24T09:55:12+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 364,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-24T11:13:09+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 365,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-24T18:40:02+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 366,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-26T11:31:26+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 367,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-26T17:07:31+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 368,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-27T17:09:21+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 369,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-27T19:17:27+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 370,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-27T19:33:34+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 371,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-28T11:25:41+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 372,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-28T14:40:13+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 373,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-28T14:47:50+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 374,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-28T18:40:36+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 375,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-28T19:25:32+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 376,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-29T11:13:11+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 377,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-29T11:26:03+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 378,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-29T11:32:16+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 379,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-29T20:20:28+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 380,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-29T21:10:46+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 381,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-30T09:12:46+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 382,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-09-30T14:10:40+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 383,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-01T13:29:19+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 384,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-01T15:40:23+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 385,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-02T09:56:47+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 386,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-03T13:31:27+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 387,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-03T21:37:10+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 388,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-04T10:41:42+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 389,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-04T13:04:29+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 390,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-04T16:59:45+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 391,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-04T18:37:54+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 392,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-04T20:11:01+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 393,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-05T10:03:51+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 394,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-05T11:37:28+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 395,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-05T15:21:49+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 396,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-05T16:16:22+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 397,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-05T18:12:02+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 398,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-05T20:52:05+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 399,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-08T14:05:00+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 400,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-08T16:08:40+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 401,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-08T16:20:20+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 402,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-08T17:17:25+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 403,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-08T17:33:37+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 404,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-08T18:41:08+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 405,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-08T20:51:04+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 406,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-08T21:04:58+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 407,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-14T20:12:40+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 408,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-15T12:46:06+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 409,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-20T10:07:14+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 410,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-21T10:28:13+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 411,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-21T12:12:12+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 412,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-21T12:28:16+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 413,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-21T17:34:32+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 414,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-21T17:40:50+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 415,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-22T14:25:42+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 416,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-22T16:40:49+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 417,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-26T11:23:52+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 418,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-27T11:48:23+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 419,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-28T11:13:32+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 420,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-10-28T14:03:18+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 421,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-02T17:11:23+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 422,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-02T18:01:30+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 423,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-03T19:51:31+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 424,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-04T14:59:16+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 425,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-05T11:19:50+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 426,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-06T17:14:49+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 427,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-06T18:13:02+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 428,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-06T18:36:17+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 429,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-07T13:49:46+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 430,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-07T19:40:48+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 431,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-13T15:56:29+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 432,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-14T09:13:35+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 433,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-15T10:43:58+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 434,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-15T13:36:04+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 435,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-16T15:48:49+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 436,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-16T15:56:45+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 437,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-17T20:11:21+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 438,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-18T10:18:51+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 439,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-18T21:46:02+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 440,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-19T16:36:30+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 441,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-19T19:51:05+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 442,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-19T20:06:54+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 443,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-19T20:43:34+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 444,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-20T13:23:28+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 445,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-22T20:58:21+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 446,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-22T21:50:48+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 447,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-23T13:25:48+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 448,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-24T11:04:34+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 449,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-24T15:26:25+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 450,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-24T17:49:07+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 451,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-27T19:27:57+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 452,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-28T11:23:53+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 453,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-29T15:05:28+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 454,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-29T17:30:02+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 455,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-29T17:50:48+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 456,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-11-30T09:35:06+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 457,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-01T16:19:19+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 458,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-01T20:49:43+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 459,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-01T21:31:49+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 460,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-02T11:00:16+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 461,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-02T16:02:54+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 462,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-02T16:07:15+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 463,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-02T20:16:19+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 464,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-06T14:45:27+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 465,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-06T16:50:35+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 466,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-09T10:35:32+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 467,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-09T12:56:10+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 468,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-09T14:35:51+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 469,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-09T15:35:06+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 470,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-09T15:44:56+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 471,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-09T16:58:28+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 472,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-09T20:24:57+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 473,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-10T10:06:49+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 474,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-10T14:40:51+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 475,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-11T16:45:13+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 476,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-11T18:13:42+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 477,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-12T14:44:47+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 478,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-12T15:21:16+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 479,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-12T18:00:26+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 480,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-13T09:52:45+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 481,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-20T12:25:37+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 482,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-21T16:29:56+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 483,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-21T17:14:04+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 484,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-27T11:18:18+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 485,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-28T13:41:22+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 486,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-28T17:32:13+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 487,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-28T18:57:33+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 488,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-29T19:10:14+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 489,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-30T13:01:17+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 490,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-30T13:45:21+00:00"
+    },
+    {
+      "repository": "onboarding-task-schedule",
+      "fixtureIndex": 491,
+      "year": 2021,
+      "scenarioAuthorDate": "2021-12-30T14:46:56+00:00"
+    }
+  ],
+  "committerTimeline": {
+    "synthetic": true,
+    "modeledYear": 2021,
+    "actualCalendarRevisionAt": "2026-11-05T17:23:03.756156+00:00"
+  },
+  "calendarPolicy": {
+    "basis": "U.S. federal legal and observed holidays, UTC calendar dates; Juneteenth from 2021; adjacent-year observed New Year dates included",
+    "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+    "excludedHolidayDates": [
+      "2021-01-01",
+      "2021-01-18",
+      "2021-02-15",
+      "2021-05-31",
+      "2021-06-18",
+      "2021-06-19",
+      "2021-07-04",
+      "2021-07-05",
+      "2021-09-06",
+      "2021-10-11",
+      "2021-11-11",
+      "2021-11-25",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-31"
+    ],
+    "weekendDatesEmpty": 62,
+    "weekendDates": 104
+  }
+}
