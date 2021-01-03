@@ -1,0 +1,11 @@
+{
+  "employee_id": 1,
+  "hire_date": "2021-01-31",
+  "template": [
+    {
+      "id": "t0",
+      "offset_days": 1,
+      "title": "Read handbook"
+    }
+  ]
+}
