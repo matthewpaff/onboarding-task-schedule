@@ -1,5 +1,7 @@
 # Onboarding Task Schedule
 
+**Provenance:** Created in November 2026. The 2021 fixture commit dates are a disclosed simulation, not actual 2021 work. See [HISTORY.md](HISTORY.md).
+
 Expand a small onboarding template into dated employee task assignments.
 
 Uses Python 3.10+ and its standard library only. No package installation, virtual
